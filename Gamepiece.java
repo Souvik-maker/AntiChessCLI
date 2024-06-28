@@ -1003,5 +1003,5 @@ public class Gamepiece {
 		}
 	}
 }
-
+// document has been formatted for better display
 
