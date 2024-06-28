@@ -90,4 +90,6 @@ public class Chess {
 		
     }
 }
+// document has been formatted for better display
+
 
